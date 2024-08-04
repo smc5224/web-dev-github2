@@ -20,3 +20,5 @@ git config --globla user.email ("이메일)
 
 git add .을 하지 않았으면 바로 git checkout -- .
 git add .을 했으면 git reset이후에 git checkout -- .
+
+git push, pull을 통해 내용을 보내고 받고
