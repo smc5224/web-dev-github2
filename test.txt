@@ -4,10 +4,13 @@ and here we go with commit #2!
 
 git 사용..?
 git init
-git add 파일 이름
-git commit -m "added 파일 이름 and changed 파일 이름"
+1.git add 파일 이름
+2.git commit -m "added 파일 이름 and changed 파일 이름"
 git status로 파일 받아졌는데 확인
 git log를 통해 누가 어떻게 파일을 받고 하였는지 확인
+
+
+!! 1번 2번 과정을 함께 해야지 파일이 추가된다.
 
 # git config --global --edit 
 git config --global user.name ("이름")
