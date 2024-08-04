@@ -4,6 +4,7 @@ and here we go with commit #2!
 
 git 사용..?
 git init
+git commit 과정
 1.git add 파일 이름
 2.git commit -m "added 파일 이름 and changed 파일 이름"
 git status로 파일 받아졌는데 확인
