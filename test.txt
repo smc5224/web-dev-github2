@@ -1,3 +1,16 @@
 This is my first commit!
 
 and here we go with commit #2!
+
+git 사용..?
+git init
+git add 파일 이름
+git commit -m "added 파일 이름 and changed 파일 이름"
+git status로 파일 받아졌는데 확인
+git log를 통해 누가 어떻게 파일을 받고 하였는지 확인
+
+# git config --global --edit 
+git config --global user.name ("이름")
+git config --globla user.email ("이메일)
+위 과정을 통해 이름과 이메일을 설정해야지 파일을 추가하고 그 이름과 이메일이 로그에 뜬다
+
