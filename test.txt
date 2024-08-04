@@ -18,3 +18,5 @@ git config --global user.name ("이름")
 git config --globla user.email ("이메일)
 위 과정을 통해 이름과 이메일을 설정해야지 파일을 추가하고 그 이름과 이메일이 로그에 뜬다
 
+git add .을 하지 않았으면 바로 git checkout -- .
+git add .을 했으면 git reset이후에 git checkout -- .
