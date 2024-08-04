@@ -8,7 +8,7 @@ git init
 2.git commit -m "added 파일 이름 and changed 파일 이름"
 git status로 파일 받아졌는데 확인
 git log를 통해 누가 어떻게 파일을 받고 하였는지 확인
-
+명령어들은 powershell로 해야함
 
 !! 1번 2번 과정을 함께 해야지 파일이 추가된다.
 
